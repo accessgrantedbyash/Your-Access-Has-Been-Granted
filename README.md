@@ -4,7 +4,6 @@ Welcome to my cybersecurity portfolio, where I'm documenting my hands-on journey
 
 As I transition into the cybersecurity field, my goal is to deepen my understanding of user access control, identity governance, and the policies that drive secure systems. This repo will include project write-ups, learning progress, tools I’ve explored, and reflections from labs and case studies.
 
----
 
 ## Focus Areas
 
@@ -15,7 +14,6 @@ As I transition into the cybersecurity field, my goal is to deepen my understand
 - Risk management and compliance frameworks  
 - Tools like Active Directory, Azure AD, and cloud-based IAM systems
 
----
 
 ## Repo Structure
 
