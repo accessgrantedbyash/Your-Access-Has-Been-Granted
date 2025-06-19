@@ -6,7 +6,7 @@ As I transition into the cybersecurity field, my goal is to deepen my understand
 
 ---
 
-## 🛠️ Focus Areas
+## Focus Areas
 
 - Identity lifecycle management  
 - Role-Based Access Control (RBAC)  
@@ -17,6 +17,6 @@ As I transition into the cybersecurity field, my goal is to deepen my understand
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
 
